@@ -1,0 +1,8 @@
+### api MARVEL (no usandolo)
+GET https://gateway.marvel.com:443/v1/public/series?ts=3&apikey=f920c075bd3d851acd070ea72da38928&hash=dedcbc164a754306e2e2217d8e75b957&offset=0
+
+### api THE MOVIE DB
+GET https://api.themoviedb.org/3/discover/movie?api_key=81e429054da1f5bd9718927b7367dc2e&page=2
+
+### GET FROM MY LOCAL
+GET http://localhost:3001/api/series
